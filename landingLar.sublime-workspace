@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"createForm"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"conn",
+				"connectDB"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Blog",
+				"BlogCategory"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"method",
+				"method\tAttr"
+			],
+			[
+				"ret",
+				"ret\treturn"
+			],
+			[
+				"Blo",
+				"BlogCategory"
+			],
+			[
+				"pa",
+				"paginate"
+			],
+			[
+				"cre",
+				"createdAt"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"fro",
+				"form"
+			],
+			[
+				"text",
+				"textarea"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/landing.lar",
+		"/Applications/XAMPP/xamppfiles/htdocs/landing.lar/app",
+		"/Applications/XAMPP/xamppfiles/htdocs/landing.lar/app/Providers"
+	],
+	"file_history":
+	[
+		"/Users/beon/SAMSEBEHOSTER/AutoPlay/Docs/cms/upload/zakaz.php",
+		"/Users/beon/Library/Application Support/Sublime Text 3/Packages/PhpNamespace/Base File.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.less/<?php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/views/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/app/helpers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/app/models/DB.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/app/controllers/Controller.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/autoload.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/php.basic/app/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Model/BlogCategory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Blog/PostController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/route.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/blog/admin/category/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/blog/admin/category/edit.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/factories/PostFactory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/TestController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Blog/Admin/BaseController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Blog/BaseController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/blog/posts/index.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/seeds/DatabaseSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_30_141013_create_blog_posts_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/seeds/PostCategoriesTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_30_140930_create_blog_categories_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Model/BlogPost.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/seeds/UsersTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_29_145521_create_posts_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_29_144944_create_post_categories_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/factories/UserFactory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Repositories/PostRepository.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/seeds/BlogCategoriesTableSeeder.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_14_203335_create_post_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_29_073247_create_post_categories_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Model/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Model/PostCategory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/PostCategory.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Repositories/Repository.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/config/app.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/FormController.php",
+		"/Users/beon/Desktop/mytemplates/admin/index.html",
+		"/Users/beon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/beon/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/beon/Desktop/mytemplates/admin/sign-up.html",
+		"/Users/beon/Desktop/resources/views/pink/contact_content.blade.php",
+		"/Users/beon/Desktop/app/Http/Controllers/ContactsController.php",
+		"/Users/beon/Desktop/app/Http/routes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Kernel.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Admin/AdminController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Auth/RegisterController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/auth/login.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/auth/register.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/auth/verify.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Providers/AuthServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/resources/views/home.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/.env",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_02_192850_create_articles_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Providers/AppServiceProvider.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/config/auth.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_02_173652_create_articles_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/database/migrations/2019_06_02_173159_create_articles_table.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/UserController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel.less/app/Http/Controllers/Controller.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "landingLar.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

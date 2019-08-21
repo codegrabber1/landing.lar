@@ -83,7 +83,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Іннусік
+                  Landing Laravel
                 </div>
 
                 <div class="links">
@@ -97,6 +97,8 @@
                 </div>
             </div>
         </div>
+
+        //Browser-sync
         <script id="__bs_script__">//<![CDATA[
             document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.7'><\/script>".replace("HOST", "http://127.0.0.1:8000"));
             //]]></script>
